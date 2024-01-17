@@ -1,4 +1,4 @@
 # php_functions
-Author : Sanjay Saini
+Author : Sanjay Saini<br>
 useful function of php which is use in projects.
 
